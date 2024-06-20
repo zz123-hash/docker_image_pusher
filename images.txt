@@ -1,6 +1,8 @@
-rockylinux:9
-ubuntu:22.04
-httpd:latest
-nginx:latest
-busybox:1.28
-busybox:latest
+amd64/rockylinux:9
+amd64/ubuntu:22.04
+amd64/httpd:latest
+amd64/nginx:latest
+amd64/nginx:1.26
+amd64/nginx:1.24
+amd64/busybox:latest
+amd64/busybox:1.28
