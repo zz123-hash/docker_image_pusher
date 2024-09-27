@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.49.0
+nginx:1.20
