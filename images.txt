@@ -8,3 +8,4 @@ prom/prometheus:v2.53.0
 prom/alertmanager:v0.27.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 registry.k8s.io/ingress-nginx/controller:v1.11.2
+php:8-apache
